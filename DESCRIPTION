@@ -1,0 +1,11 @@
+Package: FANTOM3and4CAGE
+Title: CAGE data from FANTOM3 and FANTOM4 projects
+Version: 0.99.0
+Date: 02-06-2013
+Author: Vanja Haberle, Department of Biology, University of Bergen, Norway <vanja.haberle@bio.uib.no>
+Maintainer: Vanja Haberle <vanja.haberle@bio.uib.no>
+Depends: R (>= 2.15.0)
+Description: CAGE (Cap Analysis Gene Expression) data from FANTOM3 and FANTOM4 projects produced by RIKEN Omics Science Center.
+License: GPL-3
+biocViews: ExperimentData, TimeCourse, Transcription,
+        HighThroughputSequencing
